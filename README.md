@@ -4,7 +4,7 @@ DIPLOMADO SEGURIDAD EN DEVOPS 2023
 
 ## Manual básico comandos git
 
-# uno de los comando principales para git son los siguientes:
+### Uno de los comando principales para git son los siguientes:
 
 * git status : Lista los archivos modificador en el repositorio
 * git add : añade los archivos modificados o nuevos 
