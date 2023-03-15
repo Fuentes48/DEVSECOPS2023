@@ -15,7 +15,7 @@ DIPLOMADO SEGURIDAD EN DEVOPS 2023
 
 `git checkout -b`:
 - Permite crear una nueva rama a base de la rama HEAD y cambiara a ella instantaneamente
-    -`git checkout -b new_branch existing_branch`:
+    - `git checkout -b new_branch existing_branch`:
         - Permite crear una nueva rama a base de una rama existente y cambiara a ella instantaneamente
 
 `git branch`
