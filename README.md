@@ -6,6 +6,24 @@ DIPLOMADO SEGURIDAD EN DEVOPS 2023
 
 <image src="https://th.bing.com/th/id/OIP.piAMkLAjuBhL3mIPbPgROgHaDm?pid=ImgDet&rs=1" alt="Imagen git">
 
+### Los comandos básicos en git son:
+`git init`:
+- Crea un repositorio
+
+`git checkout`:
+- Permite movernos entre ramas
+
+`git checkout -b`:
+- Permite crear una nueva rama a base de la rama HEAD y cambiara a ella instantaneamente
+    -`git checkout -b new_branch existing_branch`:
+        - Permite crear una nueva rama a base de una rama existente y cambiara a ella instantaneamente
+
+`git branch`
+- Permite listar las ramas existentes
+    - `git branch new_branch`
+        - Permite crear una nueva rama
+
+
 ### Los comandos principales en git son:
 
 `git status`:
@@ -26,6 +44,15 @@ DIPLOMADO SEGURIDAD EN DEVOPS 2023
 
 `git push`:
 - Verifica los cambios confirmados en el repositorio local y los envía al repositorio remoto
+
+`git fetch`:
+- Actualiza el repositorio local a base del repositoio remoto
+
+`git merge`:
+- Combina los cambios de dos ramas
+
+`git pull`
+- Actualiza el repositorio local y ejecuta git merge
 
 
 
